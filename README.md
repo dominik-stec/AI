@@ -137,7 +137,7 @@ PIP python package menager is need. <br/>
    <br/>
 
    ```sh
-    cd Artificial_Intelligence_PJA
+    cd AI
     python -m venv ./
     source ./bin/activate
     pip install scikit-fuzzy matplotlib pygame pandas scikit-learn xlrd
